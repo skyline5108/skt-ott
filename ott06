@@ -62,6 +62,8 @@ Sila isi URL dalam ott ikut step. bukan click link ini
 
 
 
+#EXTINF:-1 group-title=".Shopee: broadcast_hub" group-logo="https://i.ibb.co/gLnGf4BB/image.png" tvg-id="Broadcast Hub" ch-number="100" tvg-name="Broadcast Hub" tvg-logo="https://i.ibb.co/qbxWw4J/bh.jpg", Shopee: broadcast_hub
+https://drive.usercontent.google.com/u/0/uc?id=19cOopqXqPMpCqsqMYgAB4ixgX5ylxGGH&export=download
 
 
 
@@ -11795,7 +11797,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 
 
 
-#EXTM3U billed-msg=" 1 id 1 decive - BELI DI Sky Shop "
+#EXTM3U billed-msg=" BELI DI TELEGRAM @bhiptvs "
 
 
 
